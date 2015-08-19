@@ -10,7 +10,7 @@
     font-size: 18px;
 }
 
-#button_position {
+#button_submission {
 	margin-left: auto;
     margin-right: auto;
     max-width: 100%;
@@ -47,4 +47,15 @@
 
 ul {
     list-style-type: none;
+}
+
+#score_format {
+	max-width: 35%;
+    /*border:3px solid #8AC007;*/
+    display: block;
+    position: absolute;
+    top: 275px;
+    left: 38%;
+    font-weight: 500;
+    font-size: 22px;
 }
